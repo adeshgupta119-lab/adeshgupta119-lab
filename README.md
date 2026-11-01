@@ -60,9 +60,9 @@ I am an **Enterprise Cloud Architect & Lead DevSecOps Engineer** specializing in
 
 | Project Repository | Core Domain & Architecture | Tech Stack & Automation |
 | :--- | :--- | :--- |
-| [**azure-enterprise-landingzone-terraform**](https://github.com/adeshgupta119-lab/azure-enterprise-landingzone-terraform) | Microsoft CAF Landing Zones, Hub & Spoke VNet Peering, Azure Firewall UDR, Policy-as-Code | `Terraform` `Azure CAF` `Azure Policy` `CI/CD` |
-| [**devsecops-pipeline-accelerator**](https://github.com/adeshgupta119-lab/devsecops-pipeline-accelerator) | Shift-Left DevSecOps (SAST, Gitleaks, Trivy SCA), Hardened K8s Deployment, Automated Rollback | `Azure DevOps` `GitHub Actions` `Docker` `Kubernetes` |
-| [**azure-finops-cost-optimizer**](https://github.com/adeshgupta119-lab/azure-finops-cost-optimizer) | Unattached disk cleanup, Non-prod VM auto start/stop, Rightsizing telemetry, Cost anomaly alert | `PowerShell` `Python` `Azure Bicep` `FinOps Engine` |
+| [**Jenkins-pipeline**](https://github.com/adeshgupta119-lab/Jenkins-pipeline) | Enterprise Azure 3-Tier Architecture (Frontend, Backend, DB), Key Vault, NSGs, Dynamic Ansible Inventory & Jenkins CI/CD | `Terraform` `Azure` `Jenkins` `Ansible` `Linux` |
+| [**retail-store-sample-app**](https://github.com/adeshgupta119-lab/retail-store-sample-app) | Enterprise Multi-Tier Microservices on Kubernetes (EKS Auto Mode), ArgoCD GitOps, Helm Charts, Terraform | `Kubernetes` `AWS EKS` `ArgoCD` `Docker` `Terraform` |
+| [**CICD-Security-AI**](https://github.com/adeshgupta119-lab/CICD-Security-AI) | Autonomous DevSecOps: Self-Healing Terraform CI/CD, Shift-Left Quality Gates & Google Gemini AI Diagnostics | `Terraform` `GitHub Actions` `Gemini AI` `Python` `DevSecOps` |
 
 ---
 
